@@ -1,3 +1,3 @@
 
 
-Recipes project on a single static web page.
+Recipes project on a multi non dynamic  web page.
